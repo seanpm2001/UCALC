@@ -1,0 +1,89 @@
+/* Start of stylesheet */
+body {
+  background-color: lightblue;
+}
+
+t1 { /* Title 1 */
+  color: white;
+  text-align: center;
+  font-size: 500px;
+}  
+t2 { /* Title 2 */
+  color: white;
+  text-align: center;
+  font-size: 400px;
+}  
+t3 { /* Title 3 */
+  color: white;
+  text-align: center;
+  font-size: 300px;
+}
+t4 { /* Title 4 */
+  color: white;
+  text-align: center;
+  font-size: 250px;
+} 
+t5 { /* Title 5 */
+  color: white;
+  text-align: center;
+  font-size: 200px;
+}     
+t6 { /* Title 6 */
+  color: black;
+  text-align: center;
+  font-size: 100px;
+}  
+h1 { /* Heading 1 */
+  color: white;
+  text-align: center;
+}
+h2 { /* Heading 2 */
+  color: white;
+}
+h3 { /* Heading 3 */
+  color: white;
+  text-align: center;
+}
+h4 { /* Heading 4 */
+  color: white;
+  text-align: center;
+}
+h5 { /* Heading 5 */
+  color: white;
+  text-align: center;
+}
+h6 { /* Heading 6 */
+  color: white;
+  text-align: center;
+}
+p { /* Paragraph default */
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+table { /* Table */
+  border: 1px solid black;
+}
+div.background {
+  background: url(klematis.jpg) repeat;
+  border: 2px solid black;
+}
+
+div.transbox {
+  margin-top: 50px;
+  margin-bottom: 100px; 
+  margin-right: 20px;
+  margin-left: 20 px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+  filter: alpha(opacity=80); /* For IE8 and earlier */
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
+/* End of stylesheet */
