@@ -1,0 +1,11 @@
+		if calcIDSes == 12:
+					print ("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
+					print ("Addition")
+					add1 = int(input("Enter first number to add: "))
+					add2 = int(input("\nEnter second number to add: "))
+					add3 = int(input("\nEnter third number to add (if you only want to use 2 numbers, type 0): "))
+					add4 = int(input("\nEnter fourth number to add (if you only want to use 2 numbers, type 0): "))
+					add5 = int(input("\nEnter fifth number to add (if you only want to use 2 numbers, type 0): "))
+					curanswer = (add1 + add2 + add3 + add4 + add5)
+					print ("\n\nThe answer is: " + str(curanswer))
+					bloat1 = input("| FAIL! SETUP RESTARTING (we can't fix the bug right now, we are porting features in. Stabilizing later, my bad)")
