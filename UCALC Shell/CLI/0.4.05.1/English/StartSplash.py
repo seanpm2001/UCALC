@@ -1,0 +1,16 @@
+	# model ID
+	modID = str("PI-6400x702")
+	konlop = int(1)
+	adminpas = str("password")
+	adminusr = str("admin")
+	print ("Calculator mode: " + str(modID) + " \n")
+	# boot screen 
+	print ("|||||||||||||||||||||||")
+	print ("|   U L T I M A T E   |")
+	print ("| C A L C U L A T O R |")
+	print ("|                     |")
+	print ("| A L P H A   3       |")
+	print ("|                     |")
+	print ("|||||||||||||||||||||||")
+	print ("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
+	biospar = input("Press [ENTER] key to start (Enter B3 to enter BIOS)")
