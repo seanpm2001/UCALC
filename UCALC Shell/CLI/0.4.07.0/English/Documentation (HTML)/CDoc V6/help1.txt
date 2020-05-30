@@ -1,0 +1,13 @@
+_____________________________________________________
+./font        | Adjust font settings                |
+./type        | Adjust equation types               |
+./library     | Adjust saving settings              |
+./help        | Get help with the image terminal    |
+./launch      | Launch the calculator               |
+./quit        | Exit the camera terminal            |
+./resolution  | Adjust resolution settings          |
+./color       | Adjust color settings               |
+./limit       | Set library limits                  |
+./rules       | View rules                          |
+./export      | Change document export settings     |
+=====================================================
