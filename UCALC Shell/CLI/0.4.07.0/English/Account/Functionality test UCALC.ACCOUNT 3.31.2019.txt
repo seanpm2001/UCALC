@@ -1,0 +1,11 @@
+===================================================
+
+Functionality test UCALC.ACCOUNT 3.31.2019
+
+BUG.CRASH_REPORTER.py - Incomplete - Works!
+CREATE_ACCOUNT.py - Incomplete - Works!
+Public_CALC_Home.py - Incomplete - Works!
+
+Functionality: 3/3 (with incomplete parts)
+
+===================================================
