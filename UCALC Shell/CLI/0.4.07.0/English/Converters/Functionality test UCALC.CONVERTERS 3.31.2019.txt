@@ -1,0 +1,24 @@
+===================================================
+
+Functionality test UCALC.CONVERTERS 3.31.2019
+
+Currency_CALC.py - Works!
+DAYS_SINCE_CALC.py - Incomplete - Works!
+DIG_STORAGE_CALC.py - Works!
+DURATION_CALC.py - Incomplete - Works!
+ENERGY_CALC.py - Incomplete - Works!
+GREATER_THAN_CALC.py - Works!
+LENGTH-DISTANCE_CALC.py - Works! 
+POWER_CALC.py - Works! 
+RANDOM_EQUATION_CALC.py
+RANDOM_NUM_GENERATOR.py 
+RANDOM_NUM_GENERATOR-W-DEC.py
+SPEED_CALC.py 
+TEMPERATURE_CALC.py
+WEIGHT-MASS_CALC.py
+YEARS_BETWEEN_CALC.py
+YEARS_SINCE_CALC.py
+
+Functionality: ?/? (with incomplete parts)
+
+===================================================
