@@ -19,7 +19,7 @@ If it were to run on an actual calculator, it would make the TI-40 calculators l
 
 Currently, I am the only contributor.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 200 commits (As of May 29th 2020 at 11:08 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 202 commits (As of May 30th 2020 at 1:56 pm)
 
 > * 2. No other contributers as of May 29th 2020 at 11:07 pm
 
@@ -33,8 +33,11 @@ Currently, I am the only contributor.
 
 # Version history
 
-This section is coming soon.
+[0.4.06.1alpha1](https://github.com/seanpm2001/UCALC/tree/V0.4.06.1Alpha1)
 
+This release is a pre-release, as 2 areas haven't been filled in yet.
+
+0.4.06.1beta
 [unavailable](https://www.example.com)
 
 ---
@@ -42,6 +45,6 @@ This section is coming soon.
 ReadMe info
 -----------
 
-Version: 2 (May 29th 2020 at 11:07 pm)
+Version: 3 (May 30th 2020 at 1:56 pm)
 
 ---
