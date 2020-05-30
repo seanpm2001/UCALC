@@ -1,0 +1,11 @@
+			if WikIDSelect == 10004:
+				print ("Development goals")
+				print ("Here are our current development goals")
+				print ("<*> Go over 10,239 lines of code (amount in the first version of Linux)")
+				print ("<*> Reduce overall bug count to less than 50")
+				print ("<*> Surpass the TI-30XS calculator in every way")
+				print ("<*> Finish implementing all features")
+				print ("Those are our current development goals!")
+				noMore = input("Press [ENTER] key to exit source info")
+				print ("Closing")
+				print ("Please wait")
