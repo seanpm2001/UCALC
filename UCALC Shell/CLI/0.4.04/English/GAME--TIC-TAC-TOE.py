@@ -1,0 +1,11 @@
+					if gameselectID == 13:
+						print ("Tic-Tac-Toe")
+						print (" * | * | * ")
+						print (" - | - | - ")
+						print (" * | * | * ")
+						print (" - | - | - ")
+						print (" * | * | * ")
+						ticgrid = int(input("Enter a position to start (1-9)"))
+						ticgridR = int(random.randint(1, 8))
+						print ("This game is unavailable")
+						exit = input("Press [ENTER] key to quit")
