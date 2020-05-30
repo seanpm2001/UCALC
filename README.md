@@ -15,9 +15,33 @@ If it were to run on an actual calculator, it would make the TI-40 calculators l
 
 ---
 
+# Contributers
+
+Currently, I am the only contributor.
+
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 200 commits (As of May 29th 2020 at 11:08 pm)
+
+> * 2. No other contributers as of May 29th 2020 at 11:07 pm
+
+---
+
+# Current issues
+
+> * I have 2 huge directories that I couldn't add in tonight. The English directories inside the UCALC Shell/CLI. It was originally a fairly easy process. I would upload them all at once, I could do it in one go. Newer versions had more versions, so I had to do it in multiple batches (due to a 100 file at once upload limit on GitHub) the problem now is that for 2 versions of the English directory, there are several subdirectories, with more subdirectories inside the directories subdirectories. It is going to be a nightmare to get them all uploaded, due to how long it is going to take.  
+
+---
+
+# Version history
+
+This section is coming soon.
+
+[unavailable](https://www.example.com)
+
+---
+
 ReadMe info
 -----------
 
-Version: 1 (May 29th 2020 at 4:15 pm)
+Version: 2 (May 29th 2020 at 11:07 pm)
 
 ---
