@@ -1,0 +1,27 @@
+ideas
+
+2048 game
+custom modes
+Minimum: 16
+Maximum: 140,737,488,355,327
+fix layout
+
+pi-mun
+try to add more content to the game
+
+stephen hawking chatbot
+new voice commands
+!Wiki - brings up his Wiki page
+ 
+x-cups
+maximum of 12 cups
+1 and 2 cups are possible, but they are under the easiest difficulty
+use UNICODE shading for textures, you will need to repeat ALL of the pattern multiple times unfortunately
+
+Years between calculator
+built-in calendar
+
+Days between calculator
+Built-in calendar
+
+(algorithm not found yet, still experimenting)

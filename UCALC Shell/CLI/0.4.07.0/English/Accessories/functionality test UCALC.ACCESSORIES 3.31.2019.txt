@@ -1,0 +1,26 @@
+=================================================================
+
+functionality test UCALC.ACCESSORIES 3.31.2019
+
+BIOS.py - Works!
+CHAR_DEFINE.py - READ ONLY - Doesn't worm
+CHAR_SHEET.py - Works!
+COUNTING_MACHINE_128 V3.py - Works!
+CREDIT-DEBIT_CARD_GENERATOR.py - Works!
+FACTOR_CALC.py - Incomplete - works!
+FACTORIAL_CALC.py - Works!
+FIRST_100K_DIG-OF_PI.py - Works! 
+MODE_INCORRECT_SHUTDOWN.py - Doesn't work, but doesn't need to work
+PERIODIC_TABLE_OF_ELEMENTS.py - Data missing - works!
+PRODUCT_KEY_GENERATOR.py - Works!
+REGGIE_(REGISTRY_VIEWER)_.py - Incomplete - Works!
+RGB_CALC.py - Inomplete - Works
+SCREENSAVERS.py - Works!
+SETTINGS_MENU.py - Works!
+StartSplash.py - Works!
+UCALC_ACCESSORY_MANAGER.py - Incomplete - works!
+UCALC_EXPLORER.py - Works!
+UPDATE_MANAGER.py - Incomplete - Works
+
+Functionality: 19/19 (with incomplete elements)
+=================================================================
