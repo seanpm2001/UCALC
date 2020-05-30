@@ -1,0 +1,11 @@
+		if calcIDSes == 31:
+					print ("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
+					print ("Subtraction (with decimals)")
+					subtract1dec1 = float(input("Enter number 1: "))
+					subtract2dec2 = float(input("Enter number 2: "))
+					curanswer = (subtract1dec1 - subtract2dec2)
+					print ("The current answer is: " + str(curanswer))
+					subtract3dec3 = float(input("Enter numer 3: "))
+					curanswer = (subtract1dec1 - subtract2dec2 - subtract3dec3)
+					print ("The current answer is: " + str(curanswer))
+					bloat1 = input("| FAIL! SETUP RESTARTING (we can't fix the bug right now, we are porting features in. Stabilizing later, my bad)")

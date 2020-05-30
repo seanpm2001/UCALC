@@ -1,0 +1,25 @@
+print ("   __    ____  ____  ____  ____  ____  _____  _  _               ")
+print ("  /__\\  (  _ \\(  _ \\(_  _)(_  _)(_  _)(  _  )( \\( )              ")
+print (" /(__)\\  )(_) ))(_) )_)(_   )(   _)(_  )(_)(  )  (               ")
+print ("(__)(__)(____/(____/(____) (__) (____)(_____)(_)\\_)              ")
+print ("  ___    __    __    ___  __  __  __      __   ____  _____  ____ ")
+print (" / __)  /__\\  (  )  / __)(  )(  )(  )    /__\\ (_  _)(  _  )(  _ \\")
+print ("( (__  /(__)\\  )(__( (__  )(__)(  )(__  /(__)\\  )(   )(_)(  )   /")
+print (" \\___)(__)(__)(____)\\___)(______)(____)(__)(__)(__) (_____)(_)\\_)")
+print (" ")
+enterToEnter = input("Press [ENTER] key to start! ")
+calcIDSes = int(30)
+if calcIDSes == 30:
+	if calcIDSes == 30:
+		if calcIDSes == 30:
+					print ("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
+					print ("Addition (with decimals)")
+					add1dec1 = float(input("Enter number 1: "))
+					add2dec2 = float(input("Enter number 2: "))
+					curanswer = (add1dec1 + add2dec2)
+					print ("The current answer is: " + str(curanswer))
+					add3dec3 = float(input("Enter number 3: "))
+					curanswer = (add1dec1 + add2dec2 + add3dec3)
+					print ("The current answer is: " + str(curanswer)) 
+noMore = input("Press [ENTER] key to exit")
+# end of script
