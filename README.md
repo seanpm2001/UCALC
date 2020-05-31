@@ -15,19 +15,29 @@ If it were to run on an actual calculator, it would make the TI-40 calculators l
 
 ---
 
+
+
+---
+
 # Contributers
 
 Currently, I am the only contributor.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 202 commits (As of May 30th 2020 at 1:56 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 367 commits (As of May 30th 2020 at 5:05 pm)
 
-> * 2. No other contributers as of May 29th 2020 at 11:07 pm
+> * 2. No other contributers as of May 30th 2020 at 5:05 pm
 
 ---
 
 # Current issues
 
-> * I have 2 huge directories that I couldn't add in tonight. The English directories inside the UCALC Shell/CLI. It was originally a fairly easy process. I would upload them all at once, I could do it in one go. Newer versions had more versions, so I had to do it in multiple batches (due to a 100 file at once upload limit on GitHub) the problem now is that for 2 versions of the English directory, there are several subdirectories, with more subdirectories inside the directories subdirectories. It is going to be a nightmare to get them all uploaded, due to how long it is going to take.  
+> * 1. Some files were not uploaded yet, as they contained sensitive links. Less than 10 files aren't available on GitHub
+
+---
+
+# Fixed issues
+
+~~> * 1. I have 2 huge directories that I couldn't add in tonight. The English directories inside the UCALC Shell/CLI. It was originally a fairly easy process. I would upload them all at once, I could do it in one go. Newer versions had more versions, so I had to do it in multiple batches (due to a 100 file at once upload limit on GitHub) the problem now is that for 2 versions of the English directory, there are several subdirectories, with more subdirectories inside the directories subdirectories. It is going to be a nightmare to get them all uploaded, due to how long it is going to take.~~
 
 ---
 
@@ -45,6 +55,6 @@ This release is a pre-release, as 2 areas haven't been filled in yet.
 ReadMe info
 -----------
 
-Version: 3 (May 30th 2020 at 1:56 pm)
+Version: 4 (May 30th 2020 at 5:06 pm)
 
 ---
