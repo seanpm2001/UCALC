@@ -15,7 +15,9 @@ If it were to run on an actual calculator, it would make the TI-40 calculators l
 
 ---
 
+# Project info
 
+All versions: over 828 megabytes in size (in the base system (10 or 2, I can't figure it out at the moment. I know it is the one that Windows and Android **Don't** use.
 
 ---
 
@@ -23,7 +25,7 @@ If it were to run on an actual calculator, it would make the TI-40 calculators l
 
 Currently, I am the only contributor.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - 367 commits (As of May 30th 2020 at 5:05 pm)
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 368 commits (As of May 30th 2020 at 5:13 pm)
 
 > * 2. No other contributers as of May 30th 2020 at 5:05 pm
 
@@ -32,6 +34,10 @@ Currently, I am the only contributor.
 # Current issues
 
 > * 1. Some files were not uploaded yet, as they contained sensitive links. Less than 10 files aren't available on GitHub
+
+> * 2. Program is not yet completely functional in many areas
+
+> * 3. The camera calculation tool (CDoc) is not functioanl yet
 
 ---
 
@@ -47,7 +53,11 @@ Currently, I am the only contributor.
 
 This release is a pre-release, as 2 areas haven't been filled in yet.
 
-0.4.06.1beta
+[0.4.06.1alpha2](https://github.com/seanpm2001/UCALC/tree/V0.4.06.1Alpha2)
+
+This release is a pre-release, as even though the 2 areas have been filled in, this is an old release, and is not yet finished.
+
+0.4.07.0beta1
 [unavailable](https://www.example.com)
 
 ---
@@ -55,6 +65,6 @@ This release is a pre-release, as 2 areas haven't been filled in yet.
 ReadMe info
 -----------
 
-Version: 4 (May 30th 2020 at 5:06 pm)
+Version: 5 (May 30th 2020 at 5:13 pm)
 
 ---
