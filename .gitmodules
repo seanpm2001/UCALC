@@ -1,0 +1,15 @@
+# Start of script
+
+# Kernel for UCALC OS
+[submodule "Torvalds/Linux"]
+	path = UCALC/OperatingSystem/Kernel/Linux5.7
+	url = https://github.com/torvalds/linux
+
+# Submodule count: 1
+
+# File info
+# File type: .gitmodules submodule file (*.gitmodules)
+# File version: 1 (Tuesday, August 17th 2021 at 9:23 pm)
+# Line count (including blank lines and compiler line):
+
+# End of script
