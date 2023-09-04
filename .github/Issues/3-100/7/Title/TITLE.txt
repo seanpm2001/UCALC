@@ -1,0 +1,1 @@
+ [Feature request] Support for Ronnabyte, Quettabyte, Decibyte, and Hectobyte #7 
