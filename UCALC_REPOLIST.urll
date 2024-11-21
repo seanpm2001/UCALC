@@ -2,7 +2,7 @@
 //// UCALC_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all UCALC project repositories by @seanpm2001
-//// As of 2024, Tuesday, November 19th
+//// As of 2024, Wednesday, November 20th
 
 //// ----------------------------------------------------- \\\\
 //// UCALC Project
@@ -13,7 +13,7 @@ https://github.com/seanpm2001/UCALC
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (5)
+//// Modules (8)
 
 //// UCALC Website (1)
 https://github.com/seanpm2001/UCALC_Website
@@ -30,6 +30,15 @@ https://github.com/seanpm2001/UCALC_MyCalculators
 //// UCALC Games (1)
 https://github.com/seanpm2001/UCALC_Games
 
+//// UCALC Explorer (1)
+https://github.com/seanpm2001/UCALC_Explorer
+
+//// UCALC Accessories (1)
+https://github.com/seanpm2001/UCALC_Accessories
+
+//// UCALC Settings (1)
+https://github.com/seanpm2001/UCALC_Settings
+
 //// ----------------------------------------------------- \\\\
 
 //// UCALC Documentation (1)
@@ -39,8 +48,8 @@ https://github.com/seanpm2001/UCALC_Docs
 https://github.com/seanpm2001/UCALC_Wiki
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (UCALC): 8
-//// 1+5(1+1+1+1+1)+1+1=8
+//// Total repo count (UCALC): 11
+//// 1+8(1+1+1+1+1+1+1+1)+1+1=11
 //// ----------------------------------------------------- \\\\
 
 //// See also (5):
@@ -52,13 +61,13 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (All): 13
-//// 8+5=13
+//// Total repo count (All): 16
+//// 11+5=16
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 2 (2024, Tuesday, November 19th at 07:22 pm PST)
-//// Line count (including blank lines and compiler line): 65
+//// File version: 3 (2024, Wednesday, November 20th at 07:47 pm PST)
+//// Line count (including blank lines and compiler line): 74
 //// ----------------------------------------------------- \\\\
 
 //// End of file
