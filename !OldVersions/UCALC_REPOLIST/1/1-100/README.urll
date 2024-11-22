@@ -2,7 +2,7 @@
 //// UCALC_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all UCALC project repositories by @seanpm2001
-//// As of 2024, Wednesday, November 20th
+//// As of 2024, Thursday, November 21st
 
 //// ----------------------------------------------------- \\\\
 //// UCALC Project
@@ -13,7 +13,7 @@ https://github.com/seanpm2001/UCALC
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (8)
+//// Modules (11)
 
 //// UCALC Website (1)
 https://github.com/seanpm2001/UCALC_Website
@@ -39,6 +39,15 @@ https://github.com/seanpm2001/UCALC_Accessories
 //// UCALC Settings (1)
 https://github.com/seanpm2001/UCALC_Settings
 
+//// UCALC Kernel (1)
+https://github.com/seanpm2001/UCALC_Kernel
+
+//// UCALC Application (1)
+https://github.com/seanpm2001/UCALC_App
+
+//// UCALC Operating System (1)
+https://github.com/seanpm2001/UCALC_OS
+
 //// ----------------------------------------------------- \\\\
 
 //// UCALC Documentation (1)
@@ -48,8 +57,8 @@ https://github.com/seanpm2001/UCALC_Docs
 https://github.com/seanpm2001/UCALC_Wiki
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (UCALC): 11
-//// 1+8(1+1+1+1+1+1+1+1)+1+1=11
+//// Total repo count (UCALC): 14
+//// 1+11(1+1+1+1+1+1+1+1+1+1+1)+1+1=14
 //// ----------------------------------------------------- \\\\
 
 //// See also (5):
@@ -61,13 +70,13 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (All): 16
-//// 11+5=16
+//// Total repo count (All): 19
+//// 14+5=19
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 3 (2024, Wednesday, November 20th at 07:47 pm PST)
-//// Line count (including blank lines and compiler line): 74
+//// File version: 4 (2024, Thursday, November 21st at 08:15 pm PST)
+//// Line count (including blank lines and compiler line): 83
 //// ----------------------------------------------------- \\\\
 
 //// End of file
