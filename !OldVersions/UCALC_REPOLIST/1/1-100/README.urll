@@ -2,7 +2,7 @@
 //// UCALC_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all UCALC project repositories by @seanpm2001
-//// As of 2024, Thursday, November 21st
+//// As of 2024, Friday, November 22nd
 
 //// ----------------------------------------------------- \\\\
 //// UCALC Project
@@ -13,7 +13,7 @@ https://github.com/seanpm2001/UCALC
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (11)
+//// Modules (14)
 
 //// UCALC Website (1)
 https://github.com/seanpm2001/UCALC_Website
@@ -48,6 +48,15 @@ https://github.com/seanpm2001/UCALC_App
 //// UCALC Operating System (1)
 https://github.com/seanpm2001/UCALC_OS
 
+//// UCALC Shell (1)
+https://github.com/seanpm2001/UCALC_Shell
+
+//// UCALC CLI Client (1)
+https://github.com/seanpm2001/UCALC_CLI-Client
+
+//// UCALC Calc Mode: Currency (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Currency
+
 //// ----------------------------------------------------- \\\\
 
 //// UCALC Documentation (1)
@@ -57,8 +66,8 @@ https://github.com/seanpm2001/UCALC_Docs
 https://github.com/seanpm2001/UCALC_Wiki
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (UCALC): 14
-//// 1+11(1+1+1+1+1+1+1+1+1+1+1)+1+1=14
+//// Total repo count (UCALC): 17
+//// 1+14(1+1+1+1+1+1+1+1+1+1+1+1+1+1)+1+1=17
 //// ----------------------------------------------------- \\\\
 
 //// See also (5):
@@ -70,13 +79,13 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (All): 19
-//// 14+5=19
+//// Total repo count (All): 22
+//// 17+5=22
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 4 (2024, Thursday, November 21st at 08:15 pm PST)
-//// Line count (including blank lines and compiler line): 83
+//// File version: 5 (2024, Friday, November 22nd at 07:27 pm PST)
+//// Line count (including blank lines and compiler line): 92
 //// ----------------------------------------------------- \\\\
 
 //// End of file
