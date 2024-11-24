@@ -2,7 +2,7 @@
 //// UCALC_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all UCALC project repositories by @seanpm2001
-//// As of 2024, Friday, November 22nd
+//// As of 2024, Saturday, November 23rd
 
 //// ----------------------------------------------------- \\\\
 //// UCALC Project
@@ -13,7 +13,7 @@ https://github.com/seanpm2001/UCALC
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (14)
+//// Modules (17)
 
 //// UCALC Website (1)
 https://github.com/seanpm2001/UCALC_Website
@@ -57,6 +57,15 @@ https://github.com/seanpm2001/UCALC_CLI-Client
 //// UCALC Calc Mode: Currency (1)
 https://github.com/seanpm2001/UCALC_Calc-Mode_Currency
 
+//// UCALC Calc Mode: Modular Division (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Modular-Division
+
+//// UCALC Calc Mode: Addition (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Addition
+
+//// UCALC Calc Mode: Subtraction (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Subtraction
+
 //// ----------------------------------------------------- \\\\
 
 //// UCALC Documentation (1)
@@ -66,8 +75,8 @@ https://github.com/seanpm2001/UCALC_Docs
 https://github.com/seanpm2001/UCALC_Wiki
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (UCALC): 17
-//// 1+14(1+1+1+1+1+1+1+1+1+1+1+1+1+1)+1+1=17
+//// Total repo count (UCALC): 20
+//// 1+17(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1)+1+1=20
 //// ----------------------------------------------------- \\\\
 
 //// See also (5):
@@ -79,13 +88,13 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (All): 22
-//// 17+5=22
+//// Total repo count (All): 25
+//// 20+5=25
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 5 (2024, Friday, November 22nd at 07:27 pm PST)
-//// Line count (including blank lines and compiler line): 92
+//// File version: 6 (2024, Saturday, November 23rd at 08:38 pm PST)
+//// Line count (including blank lines and compiler line): 101
 //// ----------------------------------------------------- \\\\
 
 //// End of file
