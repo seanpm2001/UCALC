@@ -2,7 +2,7 @@
 //// UCALC_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all UCALC project repositories by @seanpm2001
-//// As of 2024, Sunday, November 24th
+//// As of 2024, Monday, November 25th
 
 //// ----------------------------------------------------- \\\\
 //// UCALC Project
@@ -13,7 +13,7 @@ https://github.com/seanpm2001/UCALC
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (20)
+//// Modules (23)
 
 //// UCALC Website (1)
 https://github.com/seanpm2001/UCALC_Website
@@ -75,6 +75,15 @@ https://github.com/seanpm2001/UCALC_Calc-Mode_Division
 //// UCALC Calc Mode: Distributive (1)
 https://github.com/seanpm2001/UCALC_Calc-Mode_Distributive
 
+//// UCALC Calc Mode: Temperature (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Temperature
+
+//// UCALC Calc Mode: Weight (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Weight
+
+//// UCALC Calc Mode: Distance (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Distance
+
 //// ----------------------------------------------------- \\\\
 
 //// UCALC Documentation (1)
@@ -84,8 +93,8 @@ https://github.com/seanpm2001/UCALC_Docs
 https://github.com/seanpm2001/UCALC_Wiki
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (UCALC): 23
-//// 1+20(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1)+1+1=23
+//// Total repo count (UCALC): 26
+//// 1+23(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1)+1+1=23
 //// ----------------------------------------------------- \\\\
 
 //// See also (5):
@@ -97,13 +106,13 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (All): 28
-//// 23+5=28
+//// Total repo count (All): 31
+//// 26+5=31
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 7 (2024, Sunday, November 24th at 06:53 pm PST)
-//// Line count (including blank lines and compiler line): 110
+//// File version: 8 (2024, Monday, November 25th at 08:51 pm PST)
+//// Line count (including blank lines and compiler line): 119
 //// ----------------------------------------------------- \\\\
 
 //// End of file
