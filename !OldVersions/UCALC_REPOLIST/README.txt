@@ -2,7 +2,7 @@
 //// UCALC_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all UCALC project repositories by @seanpm2001
-//// As of 2024, Monday, November 25th
+//// As of 2024, Tuesday, November 26th
 
 //// ----------------------------------------------------- \\\\
 //// UCALC Project
@@ -13,7 +13,7 @@ https://github.com/seanpm2001/UCALC
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (23)
+//// Modules (26)
 
 //// UCALC Website (1)
 https://github.com/seanpm2001/UCALC_Website
@@ -84,6 +84,15 @@ https://github.com/seanpm2001/UCALC_Calc-Mode_Weight
 //// UCALC Calc Mode: Distance (1)
 https://github.com/seanpm2001/UCALC_Calc-Mode_Distance
 
+//// UCALC Calc Mode: Number Graph (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Number-Graph
+
+//// UCALC Calc Mode: Square Root (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Square-Root
+
+//// UCALC Calc Mode: RGB Colors (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_RGB-Colors
+
 //// ----------------------------------------------------- \\\\
 
 //// UCALC Documentation (1)
@@ -93,8 +102,8 @@ https://github.com/seanpm2001/UCALC_Docs
 https://github.com/seanpm2001/UCALC_Wiki
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (UCALC): 26
-//// 1+23(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1)+1+1=23
+//// Total repo count (UCALC): 29
+//// 1+26(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1)+1+1=29
 //// ----------------------------------------------------- \\\\
 
 //// See also (5):
@@ -106,13 +115,13 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (All): 31
-//// 26+5=31
+//// Total repo count (All): 34
+//// 29+5=34
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 8 (2024, Monday, November 25th at 08:51 pm PST)
-//// Line count (including blank lines and compiler line): 119
+//// File version: 9 (2024, Tuesday, November 26th at 09:05 pm PST)
+//// Line count (including blank lines and compiler line): 128
 //// ----------------------------------------------------- \\\\
 
 //// End of file
