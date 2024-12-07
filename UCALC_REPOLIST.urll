@@ -2,7 +2,7 @@
 //// UCALC_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all UCALC project repositories by @seanpm2001
-//// As of 2024, Tuesday, November 26th
+//// As of 2024, Friday, December 6th
 
 //// ----------------------------------------------------- \\\\
 //// UCALC Project
@@ -13,7 +13,7 @@ https://github.com/seanpm2001/UCALC
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (26)
+//// Modules (30)
 
 //// UCALC Website (1)
 https://github.com/seanpm2001/UCALC_Website
@@ -93,6 +93,18 @@ https://github.com/seanpm2001/UCALC_Calc-Mode_Square-Root
 //// UCALC Calc Mode: RGB Colors (1)
 https://github.com/seanpm2001/UCALC_Calc-Mode_RGB-Colors
 
+//// UCALC Calc Mode: Speed (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Speed
+
+//// UCALC Calc Mode: Energy (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Energy
+
+//// UCALC Calc Mode: Days since (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Days-since
+
+//// UCALC Calc Mode: Years since (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Years-since
+
 //// ----------------------------------------------------- \\\\
 
 //// UCALC Documentation (1)
@@ -102,8 +114,8 @@ https://github.com/seanpm2001/UCALC_Docs
 https://github.com/seanpm2001/UCALC_Wiki
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (UCALC): 29
-//// 1+26(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1)+1+1=29
+//// Total repo count (UCALC): 33
+//// 1+30(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1)+1+1=33
 //// ----------------------------------------------------- \\\\
 
 //// See also (5):
@@ -120,8 +132,8 @@ https://github.com/seanpm2001/UltraSuite_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 9 (2024, Tuesday, November 26th at 09:05 pm PST)
-//// Line count (including blank lines and compiler line): 128
+//// File version: 10 (2024, Friday, December 6th at 06:56 pm PST)
+//// Line count (including blank lines and compiler line): 140
 //// ----------------------------------------------------- \\\\
 
 //// End of file
