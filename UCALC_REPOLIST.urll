@@ -2,7 +2,7 @@
 //// UCALC_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all UCALC project repositories by @seanpm2001
-//// As of 2024, Sunday, December 8th
+//// As of 2024, Monday, December 9th
 
 //// ----------------------------------------------------- \\\\
 //// UCALC Project
@@ -13,7 +13,7 @@ https://github.com/seanpm2001/UCALC
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (43)
+//// Modules (49)
 
 //// UCALC Website (1)
 https://github.com/seanpm2001/UCALC_Website
@@ -129,8 +129,9 @@ https://github.com/seanpm2001/UCALC_Calc-Mode_Not-equal-to
 //// UCALC Calc Mode: Equal to (1)
 https://github.com/seanpm2001/UCALC_Calc-Mode_Equal-to
 
-//// UCALC Calc Mode: Greater than with decimals (1)
+//// UCALC Calc Mode: Greater than with decimals (2)
 https://github.com/seanpm2001/UCALC_Calc-Mode_Greater-than-with-decimals
+https://github.com/seanpm2001/UCALC_Calc-Mode_Greater-than-with-decimals_Docs
 
 //// UCALC Calc Mode: Less than or equal to (1)
 https://github.com/seanpm2001/UCALC_Calc-Mode_Less-than-or-equal-with-decimals
@@ -141,8 +142,23 @@ https://github.com/seanpm2001/UCALC_Calc-Mode_Greater-than-or-equal-to-with-deci
 //// UCALC Calc Mode: Less than or equal to with decimals (1)
 https://github.com/seanpm2001/UCALC_Calc-Mode_Less-than-or-equal-to-with-decimals
 
-//// UCALC Calc Mode: Greater than with decimals (1)
-https://github.com/seanpm2001/UCALC_Calc-Mode_Greater-than-with-decimals
+//// UCALC Calc Mode: Not equal to with decimals (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Not-equal-to-with-decimals
+
+//// UCALC Calc Mode: Equal to with decimals (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Equal-to-with-decimals
+
+//// UCALC Calc Mode: Generate a random number (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Generate-a-random-number
+
+//// UCALC Calc Mode: Generate a random number (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Generate-a-random-number-with-decimals
+
+//// UCALC Calc Mode: Memory calculator (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Memory-calculator
+
+//// UCALC Calc Mode: Roman Numeral calculator (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Roman-numeral-calculator
 
 //// ----------------------------------------------------- \\\\
 
@@ -153,8 +169,8 @@ https://github.com/seanpm2001/UCALC_Docs
 https://github.com/seanpm2001/UCALC_Wiki
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (UCALC): 46
-//// 1+43(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1)+1+1=46
+//// Total repo count (UCALC): 52
+//// 1+49(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1)+1+1=52
 //// ----------------------------------------------------- \\\\
 
 //// See also (5):
@@ -166,13 +182,13 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (All): 51
-//// 46+5=51
+//// Total repo count (All): 57
+//// 52+5=57
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 12 (2024, Sunday, December 8th at 06:03 pm PST)
-//// Line count (including blank lines and compiler line): 179
+//// File version: 13 (2024, Monday, December 9th at 08:57 pm PST)
+//// Line count (including blank lines and compiler line): 195
 //// ----------------------------------------------------- \\\\
 
 //// End of file
