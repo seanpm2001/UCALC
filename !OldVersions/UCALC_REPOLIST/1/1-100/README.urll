@@ -2,7 +2,7 @@
 //// UCALC_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all UCALC project repositories by @seanpm2001
-//// As of 2024, Monday, December 9th
+//// As of 2024, Tuesday, December 10th
 
 //// ----------------------------------------------------- \\\\
 //// UCALC Project
@@ -13,7 +13,7 @@ https://github.com/seanpm2001/UCALC
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (49)
+//// Modules (55)
 
 //// UCALC Website (1)
 https://github.com/seanpm2001/UCALC_Website
@@ -53,6 +53,8 @@ https://github.com/seanpm2001/UCALC_Shell
 
 //// UCALC CLI Client (1)
 https://github.com/seanpm2001/UCALC_CLI-Client
+
+//// Calculation modes
 
 //// UCALC Calc Mode: Currency (1)
 https://github.com/seanpm2001/UCALC_Calc-Mode_Currency
@@ -160,6 +162,26 @@ https://github.com/seanpm2001/UCALC_Calc-Mode_Memory-calculator
 //// UCALC Calc Mode: Roman Numeral calculator (1)
 https://github.com/seanpm2001/UCALC_Calc-Mode_Roman-numeral-calculator
 
+//// UCALC Calc Mode: IQ Calculator (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_IQ-Calculator
+
+//// UCALC Calc Mode: ANSI Translator (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_ANSI-translator
+
+//// UCALC Calc Mode: Grades (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Grades
+
+//// UCALC Calc Mode: Product Keys (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Product-Keys
+
+//// Games
+
+//// UCALC Games: 2048
+https://github.com/seanpm2001/UCALC_Games_2048
+
+//// UCALC Games: Launch the X
+https://github.com/seanpm2001/UCALC_Games_Launch-the-X
+
 //// ----------------------------------------------------- \\\\
 
 //// UCALC Documentation (1)
@@ -169,8 +191,8 @@ https://github.com/seanpm2001/UCALC_Docs
 https://github.com/seanpm2001/UCALC_Wiki
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (UCALC): 52
-//// 1+49(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1)+1+1=52
+//// Total repo count (UCALC): 58
+//// 1+55(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1)+1+1=58
 //// ----------------------------------------------------- \\\\
 
 //// See also (5):
@@ -182,13 +204,13 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (All): 57
-//// 52+5=57
+//// Total repo count (All): 63
+//// 58+5=63
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 13 (2024, Monday, December 9th at 08:57 pm PST)
-//// Line count (including blank lines and compiler line): 195
+//// File version: 14 (2024, Tuesday, December 10th at 07:50 pm PST)
+//// Line count (including blank lines and compiler line): 217
 //// ----------------------------------------------------- \\\\
 
 //// End of file
