@@ -2,7 +2,7 @@
 //// UCALC_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all UCALC project repositories by @seanpm2001
-//// As of 2024, Tuesday, December 10th
+//// As of 2024, Wednesday, December 11th
 
 //// ----------------------------------------------------- \\\\
 //// UCALC Project
@@ -13,7 +13,7 @@ https://github.com/seanpm2001/UCALC
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (55)
+//// Modules (61)
 
 //// UCALC Website (1)
 https://github.com/seanpm2001/UCALC_Website
@@ -176,11 +176,29 @@ https://github.com/seanpm2001/UCALC_Calc-Mode_Product-Keys
 
 //// Games
 
-//// UCALC Games: 2048
+//// UCALC Games: 2048 (1)
 https://github.com/seanpm2001/UCALC_Games_2048
 
-//// UCALC Games: Launch the X
+//// UCALC Games: Launch the X (1)
 https://github.com/seanpm2001/UCALC_Games_Launch-the-X
+
+//// UCALC Games: Rock Paper Scissors (1)
+https://github.com/seanpm2001/UCALC_Games_Rock-Paper-Scissors
+
+//// UCALC Games: Tic-Tac-Toe (1)
+https://github.com/seanpm2001/UCALC_Games_Tic-Tac-Toe
+
+//// UCALC Games: Pig (1)
+https://github.com/seanpm2001/UCALC_Games_Pig
+
+//// UCALC Games: Pimun (1)
+https://github.com/seanpm2001/UCALC_Games_Pimun
+
+//// UCALC Games: X-Cups (1)
+https://github.com/seanpm2001/UCALC_Games_X-cups
+
+//// UCALC Games: Yahtzee (1)
+https://github.com/seanpm2001/UCALC_Games_Yahtzee
 
 //// ----------------------------------------------------- \\\\
 
@@ -191,8 +209,8 @@ https://github.com/seanpm2001/UCALC_Docs
 https://github.com/seanpm2001/UCALC_Wiki
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (UCALC): 58
-//// 1+55(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1)+1+1=58
+//// Total repo count (UCALC): 64
+//// 1+61(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1)+1+1=58
 //// ----------------------------------------------------- \\\\
 
 //// See also (5):
@@ -204,13 +222,13 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (All): 63
-//// 58+5=63
+//// Total repo count (All): 69
+//// 64+5=69
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 14 (2024, Tuesday, December 10th at 07:50 pm PST)
-//// Line count (including blank lines and compiler line): 217
+//// File version: 15 (2024, Wednesday, December 11th at 08:41 pm PST)
+//// Line count (including blank lines and compiler line): 235
 //// ----------------------------------------------------- \\\\
 
 //// End of file
