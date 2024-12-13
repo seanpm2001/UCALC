@@ -2,7 +2,7 @@
 //// UCALC_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all UCALC project repositories by @seanpm2001
-//// As of 2024, Wednesday, December 11th
+//// As of 2024, Thursday, December 12th
 
 //// ----------------------------------------------------- \\\\
 //// UCALC Project
@@ -13,7 +13,7 @@ https://github.com/seanpm2001/UCALC
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (61)
+//// Modules (69)
 
 //// UCALC Website (1)
 https://github.com/seanpm2001/UCALC_Website
@@ -53,6 +53,9 @@ https://github.com/seanpm2001/UCALC_Shell
 
 //// UCALC CLI Client (1)
 https://github.com/seanpm2001/UCALC_CLI-Client
+
+//// UCALC Screensavers (1)
+https://github.com/seanpm2001/UCALC_Screensaver
 
 //// Calculation modes
 
@@ -200,6 +203,29 @@ https://github.com/seanpm2001/UCALC_Games_X-cups
 //// UCALC Games: Yahtzee (1)
 https://github.com/seanpm2001/UCALC_Games_Yahtzee
 
+//// UCALC Games: Solitaire (1)
+https://github.com/seanpm2001/UCALC_Games_Solitaire
+
+//// UCALC Games: Bingo (1)
+https://github.com/seanpm2001/UCALC_Games_Bingo
+
+//// UCALC Games: Minesweeper (1)
+https://github.com/seanpm2001/UCALC_Games_Minesweeper
+
+//// Screensavers
+
+//// UCALC Screensavers: Number Blocks (1)
+https://github.com/seanpm2001/UCALC_Screensaver_Number-blocks
+
+//// UCALC Screensavers: Rocket shuttle (1)
+https://github.com/seanpm2001/UCALC_Screensaver_Rocket-shuttle
+
+//// UCALC Screensavers: Matrix (1)
+https://github.com/seanpm2001/UCALC_Screensaver_Matrix
+
+//// UCALC Screensavers: DNA Farm (1)
+https://github.com/seanpm2001/UCALC_Screensaver_DNA-Farm
+
 //// ----------------------------------------------------- \\\\
 
 //// UCALC Documentation (1)
@@ -209,8 +235,8 @@ https://github.com/seanpm2001/UCALC_Docs
 https://github.com/seanpm2001/UCALC_Wiki
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (UCALC): 64
-//// 1+61(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1)+1+1=58
+//// Total repo count (UCALC): 72
+//// 1+69(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1)+1+1=72
 //// ----------------------------------------------------- \\\\
 
 //// See also (5):
@@ -222,13 +248,13 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (All): 69
-//// 64+5=69
+//// Total repo count (All): 77
+//// 69+5=77
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 15 (2024, Wednesday, December 11th at 08:41 pm PST)
-//// Line count (including blank lines and compiler line): 235
+//// File version: 16 (2024, Thursday, December 12th at 07:11 pm PST)
+//// Line count (including blank lines and compiler line): 261
 //// ----------------------------------------------------- \\\\
 
 //// End of file
