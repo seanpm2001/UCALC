@@ -13,7 +13,7 @@ https://github.com/seanpm2001/UCALC
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (70)
+//// Modules (76)
 
 //// UCALC Website (1)
 https://github.com/seanpm2001/UCALC_Website
@@ -177,6 +177,24 @@ https://github.com/seanpm2001/UCALC_Calc-Mode_Grades
 //// UCALC Calc Mode: Product Keys (1)
 https://github.com/seanpm2001/UCALC_Calc-Mode_Product-Keys
 
+//// UCALC Calc Mode: Days between (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Days-between
+
+//// UCALC Calc Mode: Years between (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Years-between
+
+//// UCALC Calc Mode: Addition with decimals (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Addition-with-decimals
+
+//// UCALC Calc Mode: Subtraction with decimals (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Subtraction-with-decimals
+
+//// UCALC Calc Mode: Multiplication with decimals (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Multiplication-with-decimals
+
+//// UCALC Calc Mode: Division with decimals (1)
+https://github.com/seanpm2001/UCALC_Calc-Mode_Division-with-decimals
+
 //// Games
 
 //// UCALC Games: 2048 (1)
@@ -238,8 +256,8 @@ https://github.com/seanpm2001/UCALC_Docs
 https://github.com/seanpm2001/UCALC_Wiki
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (UCALC): 73
-//// 1+70(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1)+1+1=73
+//// Total repo count (UCALC): 79
+//// 1+76(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1)+1+1=79
 //// ----------------------------------------------------- \\\\
 
 //// See also (5):
@@ -251,13 +269,13 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (All): 78
-//// 73+5=78
+//// Total repo count (All): 84
+//// 79+5=84
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 17 (2024, Friday, December 13th at 07:06 pm PST)
-//// Line count (including blank lines and compiler line): 264
+//// File version: 18 (2024, Friday, December 27th at 04:09 pm PST)
+//// Line count (including blank lines and compiler line): 282
 //// ----------------------------------------------------- \\\\
 
 //// End of file
