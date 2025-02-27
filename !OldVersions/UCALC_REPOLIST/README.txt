@@ -2,10 +2,10 @@
 //// UCALC_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all UCALC project repositories by @seanpm2001
-//// As of 2024, Friday, December 13th
+//// As of 2025, Wednesday, February 26th
 
 //// ----------------------------------------------------- \\\\
-//// UCALC Project
+//// UCALC Project (78)
 //// ----------------------------------------------------- \\\\
 
 //// UCALC home (1)
@@ -13,7 +13,7 @@ https://github.com/seanpm2001/UCALC
 
 //// ----------------------------------------------------- \\\\
 
-//// Modules (76)
+//// Modules (78)
 
 //// UCALC Website (1)
 https://github.com/seanpm2001/UCALC_Website
@@ -230,6 +230,10 @@ https://github.com/seanpm2001/UCALC_Games_Bingo
 //// UCALC Games: Minesweeper (1)
 https://github.com/seanpm2001/UCALC_Games_Minesweeper
 
+//// UCALC Games: Mad Business (2)
+https://github.com/seanpm2001/UCALC_Games_Mad-Business
+https://github.com/seanpm2001/UCALC_Games_Mad-Business_Docs
+
 //// Screensavers
 
 //// UCALC Screensavers: Number Blocks (1)
@@ -256,8 +260,8 @@ https://github.com/seanpm2001/UCALC_Docs
 https://github.com/seanpm2001/UCALC_Wiki
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (UCALC): 79
-//// 1+76(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1)+1+1=79
+//// Total repo count (UCALC): 81
+//// 1+78(1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+1+2)+1+1=81
 //// ----------------------------------------------------- \\\\
 
 //// See also (5):
@@ -269,13 +273,13 @@ https://github.com/seanpm2001/UltraSuite
 https://github.com/seanpm2001/UltraSuite_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Total repo count (All): 84
-//// 79+5=84
+//// Total repo count (All): 86
+//// 81+5=86
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 18 (2024, Friday, December 27th at 04:09 pm PST)
-//// Line count (including blank lines and compiler line): 282
+//// File version: 19 (2025, Wednesday, February 26th at 05:53 pm PST)
+//// Line count (including blank lines and compiler line): 286
 //// ----------------------------------------------------- \\\\
 
 //// End of file
